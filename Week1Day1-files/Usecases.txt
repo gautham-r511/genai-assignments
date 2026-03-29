@@ -1,0 +1,31 @@
+25-Optimize airbag validation for faster, cost-effective design and testing
+Leverage AI-powered simulation to optimize airbag designs, reduce computational costs and accelerate validation processes with high accuracy
+26-Faster exploration of motorcycle handlebar designs for improved ergonomics
+AI-powered physics predictions leveraging historical data significantly reduce development time,allowing faster design exploration for improved rider comfort and performance
+64-Predict remaining moisture content in clothes during operations
+AI/ML models applied to test data improve accuracy and efficiency in real-time moisture estimation
+99-GenAI chatbot for manufacturing and maintenance support
+LLM-powered assistant for resolving production issues with contextual, real-time responses
+75-Accelerate electric motor design generation
+78-Generative AI transforms performance specs into validated electric motor concepts in hours, not weeks
+Accelerating PLC code development
+Agentic AI workflow using multi-agent LLMs to generate and validate structured text from natural language
+
+
+PLC (Programmable Logic Controller) is an industrial computer used to automate and control machines, sensors, motors, conveyors, valves, and factory processes based on predefined logic.
+
+
+Electrical Logic :
+|----[ Start ]----[/ Stop ]-----------( Motor )----|
+|----[ Motor ]------------------------|
+
+Sequential Diagram:
+Step 1: Start
+   ↓
+Step 2: Fill Tank
+   ↓
+Step 3: Heat
+   ↓
+Step 4: Stop
+
+Structured Text in Pascal 

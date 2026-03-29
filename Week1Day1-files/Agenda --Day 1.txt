@@ -1,0 +1,125 @@
+Agenda --Day 1
+1) Evolution of AI 
+Task done by machine mimics human behaviour
+I want to travel to a new place chennai am not aware of the route
+Using Google Maps
+Accurately ?
+ ------No (90-95%)
+ -----Traffic density ---Time--Shorter routes
+ chennai
+ -----Adyar -Velacherry at 9 AM in car distance
+distance
+Mode of transport 
+Number of people
+Millions of records
+Source
+Destination
+-----Data----------
+
+Adyar -velacherry --Current situation+Previous data
+
+ *Predict --Time and shortest route*
+
+Today the weather 30 degree
+March -28 (2024,25,1990)
+--Millions-Billions of data --
+*Prediction* ---30 AI
+
+1) Data
+2) Models
+2) ML,DL and Gen AI
+
+ML -Machine Learning (Subset of AI)
+Numbe of records -1000 - Millions of records
+output of Machine Learning --*Prediction*
+
+Prediction of heard disease
+
+Parameters --Column name
+Name	Age	Blood group	Diabetic	Blood Pressure	Lcoation	Phone	Genetic History	Smoker	Drinker
+Records --Number of rows
+
+Millions of record ---Retina Image
+
+1000 -Millions of record
+   -----Machine Model ready
+
+New Retinal Image 
+ ---Predict and say whetehr risk is there --Heart Disease
+
+ Data Collection
+ Data Cleansing 
+ Model selection
+ ----CNN (used to read the image ofteh retina)
+
+Testing 
+1000 records --eye details
+80 20
+80% data -training
+20% data -Testing and validation
+
+Input for Testing ----Retina Image (which is not a part of training)
+Output is prediction --
+Machine Learning --predictive AI
+
+Multimodal
+ ----Can accept image ,text or video
+
+3) What is Machine Learning  with a use case
+
+Machine Learning Types :
+1) Supervised --labelled
+a) Linear Regression
+output of Linear Regression is --number or numerical
+Home purchase --real esatate
+Defect prediction Testing
+b) Classification
+    --labels or categories --output
+    Google predicts --
+    Risk of Heart attck -Yes or No
+    output --Categories (yes or no)
+
+    Testing -Defect Classification Prediction
+2) Unsupervised --Unlabelled (Behviour,Genere)
+--Behaviour --Colloborative filtering (No likes or comments) --Unsupervised
+
+Content Based --Like dislikes -Star rating (Labelling) --Supervised
+
+1) What is Deep Learning
+  --Subset of Machine Learning
+  ----millions to trillions
+  ----Neural networks
+  Deep Learning --ML (having vast amount data) +Neural networks
+ --Deep Learning --Predictive
+
+5) What is Gen AI
+  Subset of Deep Learning
+  Generative AI (not predictive)
+  ----Generate The content -- output (Image,text,audio or video)
+  GPT 4 -96 to 120 Layers
+  GPT 5 190 Layers
+  120Billion Parameters
+
+Generates only the code
+---All Domain
+
+Service provider  /Company name  --Open AI
+Chat Agent --Chat GPT
+LLM  -GPT 5.4,GPT5.3 
+GPT -generative pretrained transformer
+pretrained with dataset(huge not only software all the fields)
+
+
+---ML/Machine Learning is predictive 1000- Millions 
+--DL/Deeplearning ---Predictive -Machine Learning (vast data)+Neural networks
+--Gen AI --Generative AI ---Subset of Deeplearning
+
+
+
+--
+
+
+
+
+Day-2
+LLM Anatomy and its internal Working in detail
