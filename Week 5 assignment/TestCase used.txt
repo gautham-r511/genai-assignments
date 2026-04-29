@@ -1,0 +1,11 @@
+Testcase ID: TC_UPI_001
+   Title: Successful UPI Fund Transfer
+   Description: Verify that a user can successfully transfer funds using UPI.
+   Pre-conditions: User is logged in and has sufficient balance.
+   Steps:
+     1. Navigate to the UPI fund transfer section.
+     2. Enter the recipient's UPI ID.
+     3. Enter the amount to be transferred.
+     4. Confirm the transaction details.
+     5. Authorize the transaction using OTP or biometric authentication.
+   Expected Result: The fund transfer is successful, and a confirmation message is displayed.
