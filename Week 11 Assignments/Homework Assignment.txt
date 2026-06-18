@@ -1,0 +1,16 @@
+Homework Assignment 1
+ 
+Explore the LangChain Core and LangChain Community library packages 
+ 
+Gain a solid understanding of how these libraries can be used to build AI applications efficiently.
+ 
+ 
+Homework Assignment 2
+ 
+Compare the applications we built without LangChain with the applications we built using LangChain today.
+ 
+Explore the MongoDB integration and the LLM integrations with LangChain.
+ 
+Analyze how the code structure differs, how the integrations are implemented, and how many lines of code are reduced when using LangChain.
+ 
+Understand how LangChain simplifies development and enables easier integration of different components.
